@@ -18,5 +18,3 @@ A classic Simon memory game built with HTML, CSS and JavaScript.
 2. Open index.html in your browser
 3. Press any key to start
 4. Follow the sequence and repeat it!!
-
-## Live Demo
